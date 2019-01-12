@@ -1,0 +1,9 @@
+Title: Once upon a time, the web
+
+----
+
+Author: Antoine Chassagne
+
+----
+
+Description: This timeline traces the history of the web from computing in the 70s to the present.

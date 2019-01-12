@@ -1,0 +1,51 @@
+/*
+* -----------------------------------------------------------------------------
+* COMPONENT : EVENT
+*-----------------------------------------------------------------------------
+*/
+
+@include block('event') {
+    position: static !important;
+    margin-bottom: 100px;
+    border: solid 1px $black;
+    padding: 0 20px 20px;
+
+    @include block('event-body') {
+        position: relative;
+    }
+
+    @include element('date') {
+        position: absolute;
+        top: 50%;
+        transform: translateX(calc(-100% - 40px));
+        font-size: em(30);
+    }
+
+    @include element('title') {
+        font-weight: bold;
+        margin-bottom: 0px;
+    }
+
+    @include element('category') {
+
+    }
+
+    @include element('tags') {
+
+    }
+
+    @include element('title') {
+
+    }
+
+    @include element('img') {
+        display: inline-block;
+        width: calc(100% + 40px);
+        max-height: 300px;
+        object-fit: cover;
+        margin-left: -20px;
+    }
+
+    @include element('content') {
+    }
+}

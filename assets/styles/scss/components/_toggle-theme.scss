@@ -1,0 +1,18 @@
+/*
+* -----------------------------------------------------------------------------
+* COMPONENT : INPUT
+*-----------------------------------------------------------------------------
+*/
+
+@include block('toggle-theme') {
+
+}
+
+.dark-theme {
+    background-color: $black;
+    color: $white;
+
+    .event {
+        border-color: $white;
+    }
+}

@@ -1,0 +1,34 @@
+/*
+* -----------------------------------------------------------------------------
+* COMPONENT : SIDEBAR
+*-----------------------------------------------------------------------------
+*/
+
+@include block('sidebar') {
+    display: inline-block;
+    position: fixed;
+    height: 100vh;
+    width: 25%;
+    padding: 20px;
+
+    @media screen and (max-width: $tablet) {
+        position: static;
+        display: none;
+    }
+
+    @include block('filters') {
+
+        @include element('label') {
+            display: block;
+            padding-bottom: 10px;
+            font-weight: $bold;
+            text-transform: uppercase;
+        }
+
+        @include element('group') {
+            display: flex;
+            flex-direction: column;
+            padding-bottom: 20px;
+        }
+    }
+}

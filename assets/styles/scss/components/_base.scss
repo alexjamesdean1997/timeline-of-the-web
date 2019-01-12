@@ -1,0 +1,25 @@
+/*
+* -----------------------------------------------------------------------------
+* COMPONENT : BASE
+*-----------------------------------------------------------------------------
+*/
+
+body {
+    margin: 0;
+    font-family: $main-font;
+    background-color: $white;
+    color: $black;
+}
+
+section {
+    display: inline-block;
+    width: 100%;
+}
+
+@include block('container') {
+    width: 100%;
+
+    @include modifier('offset') {
+        margin-left: 25%;
+    }
+}

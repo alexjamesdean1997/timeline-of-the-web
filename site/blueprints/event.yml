@@ -1,0 +1,45 @@
+title: Event
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+
+  date:
+    label: Date
+    type: date
+    format: YYYY/MM/DD
+
+  category:
+    label: Category
+    type: select
+    options:
+      business: Business
+      programming: Programming
+      law: Law
+      browsers: Browsers
+      ux-design: UX Design
+      hardware: Hardware
+      design: Design
+
+  tags:
+    label: Tags
+    type: tags
+    lower: true
+
+  image:
+    label: Image
+    type: image
+
+  url:
+    label: En savoir plus
+    type: url
+
+  content:
+    label: Content
+    type: textarea
