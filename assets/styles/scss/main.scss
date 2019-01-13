@@ -16,8 +16,11 @@
 */
 
 @import "components/base";
+@import "components/button";
 @import "components/event";
-@import "components/_input";
+@import "components/form";
+@import "components/header";
+@import "components/input";
 @import "components/sidebar";
 @import "components/toggle-theme";
 
@@ -29,5 +32,5 @@
 
 @import "layouts/defaults";
 @import "layouts/error";
-@import "layouts/error";
+@import "layouts/home";
 @import "layouts/timeline";

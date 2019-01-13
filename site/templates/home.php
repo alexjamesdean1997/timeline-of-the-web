@@ -4,13 +4,18 @@
 
         <div class="container">
 
-            <h1>
-                <?= $page->title()->html() ?>
+            <h1 class="mb-20">
+                <?= html($page->content()->get('heading')) ?>
             </h1>
 
-            <div>
+            <div class="mb-30">
                 <?= $page->text()->kirbytext() ?>
             </div>
+
+            <a href="<?= $site->page('timeline')->url() ?>"
+               class="button">
+                View now 👉
+            </a>
 
         </div>
 

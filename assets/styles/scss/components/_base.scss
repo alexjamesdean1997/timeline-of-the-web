@@ -1,14 +1,33 @@
 /*
 * -----------------------------------------------------------------------------
 * COMPONENT : BASE
-*-----------------------------------------------------------------------------
+*------------------------------------------------------------------------------
 */
+
+* {
+    box-sizing: border-box;
+}
+
+::selection {
+    background-color: $yellow;
+    color: $black;
+}
+
+html {
+    background-color: $yellow;
+}
 
 body {
     margin: 0;
     font-family: $main-font;
+    font-weight: $bold;
     background-color: $white;
     color: $black;
+}
+
+main {
+    padding-top: 106px; // 50px + 65px from navbar
+    min-height: 100vh;
 }
 
 section {
@@ -16,10 +35,63 @@ section {
     width: 100%;
 }
 
-@include block('container') {
+a {
+    color: $black;
+
+    &:hover {
+        color: $yellow;
+    }
+}
+
+.container {
     width: 100%;
+    padding: 0 20px;
+    margin: 0 auto;
+
+    @media (min-width: $desktop) {
+        max-width: 960px;
+        padding: 0 40px;
+    }
 
     @include modifier('offset') {
         margin-left: 25%;
+
+        @media (max-width: $tablet) {
+            margin-left: 0;
+        }
     }
+}
+
+/*
+* -----------------------------------------------------------------------------
+* MARGINS
+*------------------------------------------------------------------------------
+*/
+
+.mb-5 {
+    margin-bottom: 5px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.mt-50 {
+    margin-top: 50px;
 }

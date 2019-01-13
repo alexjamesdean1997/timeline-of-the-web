@@ -2,8 +2,12 @@ Title: Home
 
 ----
 
-Intro: Once upon a time, the web
+Intro: Once upon a time, the web...
 
 ----
 
 Text: This timeline traces the history of the web from computing in the 70s to the present.
+
+----
+
+Heading: Once upon a time, the web...

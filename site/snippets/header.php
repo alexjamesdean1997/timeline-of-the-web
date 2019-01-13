@@ -15,6 +15,10 @@
 
     <header class="header">
 
-        <?php snippet('menu') ?>
+        <div class="container">
+
+            <?php snippet('menu') ?>
+
+        </div>
 
     </header>

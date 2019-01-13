@@ -7,8 +7,8 @@ fields:
     label: Title
     type:  text
 
-  intro:
-    label: Intro
+  heading:
+    label: Heading 1
     type:  textarea
 
   text:

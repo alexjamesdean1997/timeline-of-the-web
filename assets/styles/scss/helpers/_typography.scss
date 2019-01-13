@@ -1,32 +1,44 @@
 /*
 * -----------------------------------------------------------------------------
-* FONTS
-*-----------------------------------------------------------------------------
-*/
-
-@font-face {
-    font-family: "Inconsolata";
-    src: url("/assets/fonts/Inconsolata-Regular.ttf") format("ttf"),
-    url("/assets/fonts/Inconsolata-Bold.ttf") format("ttf")
-}
-
-/*
-* -----------------------------------------------------------------------------
 * TYPOGRAPHY
 *-----------------------------------------------------------------------------
 */
 
 h1 {
-
+    font-size: 2.25em;
+    line-height: 1.5;
+    font-weight: $bold;
 }
 
 h2 {
-
+    font-size: 1.875em;
+    line-height: 1.5;
+    font-weight: $bold;
 }
 
 h3 {
+    font-size: 1.5em;
+    line-height: 1.5;
+    font-weight: $bold;
+}
 
+.text {
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-weight: $regular;
+    font-family: $secondary-font;
+}
 
+.alt-text {
+    font-size: 1em;
+    line-height: 1.5;
+    font-weight: $bold;
+}
+
+p {
+    font-size: 1.25em;
+    line-height: 1.5;
+    font-family: $secondary-font;
 }
 
 
