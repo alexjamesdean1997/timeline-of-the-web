@@ -13,7 +13,7 @@
 
 <body>
 
-    <header class="header">
+    <header class="header <?= r($site->page('home')->isOpen(), 'header--transparent') ?>">
 
         <div class="container">
 

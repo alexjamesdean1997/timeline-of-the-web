@@ -31,7 +31,6 @@ if (document.querySelector('#timeline')) {
             filter: filterValue
         })
     });
-
 }
 
 /*
@@ -40,28 +39,28 @@ if (document.querySelector('#timeline')) {
 * -------------------------------------
 */
 
-// Toggle theme (light/dark)
-if (document.querySelector('#timeline')) {
+// Toggle options panel on mobile & tablet
+if (document.querySelector('.sidebar-trigger')) {
 
-    let button = document.querySelector('.toggle-theme');
-    let body = document.querySelector('body');
+    let button = document.querySelector('.sidebar-trigger');
+    let open = document.querySelector('.sidebar-trigger__open');
+    let close = document.querySelector('.sidebar-trigger__close');
+    let sidebar = document.querySelector('.sidebar');
 
     button.addEventListener('click', () => {
-        body.classList.toggle('dark-theme');
 
-        console.log(body.classList);
+        sidebar.classList.toggle('sidebar--open');
 
-        if (button.classList.contains('dark-theme')) {
-            console.log('is dark');
-            button.innerHTML = 'Switch to light theme';
+        if (sidebar.classList.contains('sidebar--open')) {
+            open.style.display = 'none';
+            close.style.display = 'inline-block';
         } else {
-            console.log('is light');
-            button.innerHTML = 'Switch to dark theme';
+            open.style.display = 'inline-block';
+            close.style.display = 'none';
         }
+
     });
-
 }
-
 
 /*
 * -------------------------------------

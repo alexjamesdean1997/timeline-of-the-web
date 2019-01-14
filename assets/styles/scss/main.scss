@@ -8,6 +8,7 @@
 @import "helpers/variables";
 @import "helpers/mixins";
 @import "helpers/typography";
+@import "helpers/animations";
 
 /*
 * -----------------------------------------------------------------------------
@@ -22,7 +23,6 @@
 @import "components/header";
 @import "components/input";
 @import "components/sidebar";
-@import "components/toggle-theme";
 
 /*
 * -----------------------------------------------------------------------------

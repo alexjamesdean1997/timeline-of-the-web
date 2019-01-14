@@ -11,7 +11,8 @@
            name="tag-filter"
            value="all-tags"
            class="tag-filter filter"
-           id="all-tags">
+           id="all-tags"
+           checked>
 
     <label class="radio alt-text mb-10" for="all-tags">
         <span></span>

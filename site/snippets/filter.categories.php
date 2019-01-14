@@ -11,7 +11,8 @@
            name="category-filter"
            value="all-categories"
            class="category-filter filter"
-           id="all-categories">
+           id="all-categories"
+           checked>
 
     <label class="radio alt-text mb-10" for="all-categories">
         <span></span>

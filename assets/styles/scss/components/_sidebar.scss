@@ -11,6 +11,16 @@
     width: 25%;
     padding: 0 40px;
 
+    @include modifier('open') {
+        display: inline-block !important;
+        position: fixed !important;
+        width: 100%;
+        top: 0;
+        padding: 50px 20px;
+        z-index: 3;
+        background-color: $white;
+    }
+
     @media screen and (max-width: $tablet) {
         position: static;
         display: none;
@@ -28,6 +38,38 @@
         @include element('group') {
             display: flex;
             flex-direction: column;
+
+            @media (max-width: $tablet) {
+                margin-bottom: 20px;
+            }
         }
     }
+}
+
+@include block('sidebar-trigger') {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px $black;
+    border-radius: 50%;
+    background-color: $black;
+    z-index: 3;
+
+    @media (min-width: $desktop) {
+        display: none;
+    }
+
+    @include element('close') {
+        display: none;
+    }
+
+    path {
+        fill: $white;
+    }
+
 }

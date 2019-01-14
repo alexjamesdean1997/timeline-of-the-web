@@ -26,8 +26,12 @@ body {
 }
 
 main {
-    padding-top: 106px; // 50px + 65px from navbar
     min-height: 100vh;
+    padding-top: 106px; // 50px + 65px from navbar
+
+    @media (max-width: $tablet) {
+        padding-top: 0;
+    }
 }
 
 section {
