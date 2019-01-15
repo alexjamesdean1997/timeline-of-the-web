@@ -69,7 +69,7 @@
                 </div>
             <?php endif ?>
 
-            <?php if ($link = $event->content()->get('url')) : ?>
+            <?php if (($link = $event->content()->get('url')) != '' ) : ?>
                 <a class="event__link button"
                    href="<?= html($link) ?>"
                    target="_blank">
