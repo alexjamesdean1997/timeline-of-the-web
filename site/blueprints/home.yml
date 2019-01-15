@@ -14,3 +14,7 @@ fields:
   text:
     label: Text
     type:  textarea
+
+  img:
+    label: Image
+    type: image
