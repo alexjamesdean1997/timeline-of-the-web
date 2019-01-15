@@ -19,6 +19,7 @@ fields:
     label: Category
     type: select
     options:
+      other: Other
       business: Business
       programming: Programming
       law: Law
@@ -26,6 +27,9 @@ fields:
       ux-design: UX Design
       hardware: Hardware
       design: Design
+      content: Content
+      web: Web technologies
+
 
   tags:
     label: Tags
