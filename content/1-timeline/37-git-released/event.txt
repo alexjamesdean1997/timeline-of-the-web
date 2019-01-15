@@ -1,0 +1,25 @@
+Title: Git released
+
+----
+
+Date: 2005-04-07
+
+----
+
+Category: programming
+
+----
+
+Tags: git
+
+----
+
+Image: 
+
+----
+
+Url: https://github.com/
+
+----
+
+Content: Git is a **version-control system** for tracking changes in computer files and coordinating work on those files among multiple people.
