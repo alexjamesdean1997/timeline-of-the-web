@@ -1,0 +1,25 @@
+Title: The first version of MySQL appeared
+
+----
+
+Date: 1995-05-23
+
+----
+
+Category: programming
+
+----
+
+Tags: launches,data sharing
+
+----
+
+Image: image-18.png
+
+----
+
+Url: 
+
+----
+
+Content: MySQL is an **open-source** relational database management system.

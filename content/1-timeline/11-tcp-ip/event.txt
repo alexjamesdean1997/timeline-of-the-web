@@ -1,0 +1,25 @@
+Title: TCP/IP
+
+----
+
+Date: 1978-01-01
+
+----
+
+Category: web
+
+----
+
+Tags: 
+
+----
+
+Image: 
+
+----
+
+Url: https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip
+
+----
+
+Content: ICP/IP emerges in nearly its final form, as used for the first decades of the Internet, known as "**IPv4**". which is described in IETF publication RFC 791.

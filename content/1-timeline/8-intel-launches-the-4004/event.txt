@@ -1,0 +1,25 @@
+Title: Intel Launches the 4004
+
+----
+
+Date: 1971-03-01
+
+----
+
+Category: business
+
+----
+
+Tags: launches
+
+----
+
+Image: image-3.png
+
+----
+
+Url: 
+
+----
+
+Content: The Intel 4004 is a **4-bit central processing unit** released by Intel Corporation. It was the first commercially available microprocessor by Intel, and the first in a long line of Intel CPUs.

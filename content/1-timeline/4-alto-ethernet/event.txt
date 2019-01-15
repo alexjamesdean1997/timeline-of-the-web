@@ -1,0 +1,25 @@
+Title: Alto Ethernet
+
+----
+
+Date: 1973-04-22
+
+----
+
+Category: web
+
+----
+
+Tags: 
+
+----
+
+Image: image-4.png
+
+----
+
+Url: 
+
+----
+
+Content: Robert Metcalfe circulated a memo titled "Alto Ethernet" which contained a rough schematic of  how **Ethernet** would work.

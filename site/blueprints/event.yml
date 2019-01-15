@@ -29,6 +29,8 @@ fields:
       design: Design
       content: Content
       web: Web technologies
+      software: software
+      security: Security
 
 
   tags:

@@ -1,0 +1,25 @@
+Title: First Launch of Mosaic web browser
+
+----
+
+Date: 1993-01-05
+
+----
+
+Category: browsers
+
+----
+
+Tags: launches
+
+----
+
+Image: image-15.png
+
+----
+
+Url: 
+
+----
+
+Content: NCSA Mosaic, or **simply Mosaic**, is the web browser that popularized the World Wide Web and the Internet.

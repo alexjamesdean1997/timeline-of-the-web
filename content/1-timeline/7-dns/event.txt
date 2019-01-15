@@ -1,0 +1,25 @@
+Title: DNS
+
+----
+
+Date: 1983-01-01
+
+----
+
+Category: web
+
+----
+
+Tags: 
+
+----
+
+Image: image-6.png
+
+----
+
+Url: https://www.culture-informatique.net/cest-quoi-un-serveur-dns/
+
+----
+
+Content: The Domain Name System (DNS) establishes the familiar .edu, .gov, .com, .mil, .org, .net, and .int system for naming websites.

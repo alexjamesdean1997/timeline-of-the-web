@@ -1,0 +1,25 @@
+Title: PGP
+
+----
+
+Date: 1991-06-05
+
+----
+
+Category: security
+
+----
+
+Tags: emailing,data sharing
+
+----
+
+Image: image-12.png
+
+----
+
+Url: 
+
+----
+
+Content: **Pretty Good Privacy** (PGP) is an encryption program that provides cryptographic privacy and authentication for data communication. PGP is used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
