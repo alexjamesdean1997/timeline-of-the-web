@@ -1,0 +1,25 @@
+Title: Google’s AI system
+
+----
+
+Date: 2016-03-15
+
+----
+
+Category: browsers
+
+----
+
+Tags: ai
+
+----
+
+Image: image-51.png
+
+----
+
+Url: 
+
+----
+
+Content: Google’s artificially intelligent Go-playing computer system has defeated Korean grandmaster Lee Sedol, finishing the best-of-five series with four wins and one loss.

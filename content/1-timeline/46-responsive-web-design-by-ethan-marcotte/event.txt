@@ -1,0 +1,25 @@
+Title: Responsive Web Design by Ethan Marcotte
+
+----
+
+Date: 2010-05-25
+
+----
+
+Category: design
+
+----
+
+Tags: media
+
+----
+
+Image: image-46.png
+
+----
+
+Url: 
+
+----
+
+Content: Responsive design is an approach to web page creation that makes use of flexible layouts, flexible images and cascading style sheet media queries.
