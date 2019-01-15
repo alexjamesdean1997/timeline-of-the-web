@@ -1,25 +1,25 @@
-Title: Event 1
+Title: The first ARPANET link
 
 ----
 
-Category: browsers
+Category: web
 
 ----
 
-Tags: ibm,redhat
+Tags: lauches
 
 ----
 
-Image: image.png
+Image: image-1.png
 
 ----
 
-Content: Lorem ipsum dolor sit amet, **consectetur adipiscing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Content: The first ARPANET link was established between the **University of California**, **Los Angeles** (UCLA) and the **Stanford Research Institute** at 22:30 hours.
 
 ----
 
-Date: 2019-01-01
+Date: 1969-10-29
 
 ----
 
-Url: https://fr.lipsum.com/
+Url: http://www.linternaute.com/histoire/motcle/2637/a/1/1/arpanet.shtml

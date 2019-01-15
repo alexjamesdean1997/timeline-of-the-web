@@ -1,25 +1,25 @@
-Title: Event 2
+Title: CompuServe
 
 ----
 
-Date: 2018-05-10
+Date: 1970-01-01
 
 ----
 
-Category: programming
+Category: web
 
 ----
 
-Tags: github,test,cool
+Tags: emailing
 
 ----
 
-Image: image-2.jpg
+Image: image-2.png
 
 ----
 
-Url: 
+Url: https://www.compuserve.com/?guccounter=1
 
 ----
 
-Content: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+Content: CompuServe became the first service to offer **electronic mail **capabilities and technical support to personal computer users.
