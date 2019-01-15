@@ -1,0 +1,25 @@
+Title: A Dao of Web Design by John Allsopp
+
+----
+
+Date: 2000-04-07
+
+----
+
+Category: design
+
+----
+
+Tags: media
+
+----
+
+Image: image-30.png
+
+----
+
+Url: 
+
+----
+
+Content: Described as "A manifesto for anyone working on the web" by Jeremy Keith, and cited as a key inspiration for Responsive Web Design by Ethan Marcotte.

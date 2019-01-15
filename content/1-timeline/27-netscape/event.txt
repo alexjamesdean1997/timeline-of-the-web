@@ -1,0 +1,25 @@
+Title: Netscape
+
+----
+
+Date: 1998-03-30
+
+----
+
+Category: business
+
+----
+
+Tags: data sharing
+
+----
+
+Image: image-27.png
+
+----
+
+Url: 
+
+----
+
+Content: Netscape source code released under Open Source licence.
