@@ -1,0 +1,25 @@
+Title: HTML5 is introduced
+
+----
+
+Date: 2008-01-01
+
+----
+
+Category: programming
+
+----
+
+Tags: error tolerant code
+
+----
+
+Image: image-42.png
+
+----
+
+Url: 
+
+----
+
+Content: HTML 5 is a markup language used for structuring and presenting content on the World Wide Web.

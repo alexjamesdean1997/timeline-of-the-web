@@ -1,0 +1,25 @@
+Title: Initial release of Mongo DB
+
+----
+
+Date: 2009-02-11
+
+----
+
+Category: business
+
+----
+
+Tags: data sharing
+
+----
+
+Image: image-45.png
+
+----
+
+Url: 
+
+----
+
+Content: MongoDB is a free and open-source cross-platform document-oriented database program.
