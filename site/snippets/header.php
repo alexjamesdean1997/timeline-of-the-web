@@ -7,18 +7,25 @@
     <title><?= $site->title()->html() ?> | <?= $page->title()->html() ?></title>
     <meta name="description" content="<?= $site->description()->html() ?>">
 
-    <?= css('assets/css/accueil.css') ?>
+<link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+      rel="stylesheet"
+    />
+
+    <?= css('assets/styles/css/accueil.css') ?>
 
 </head>
 
 <body>
 
-    <header class="header <?= r($site->page('home')->isOpen(), 'header--transparent') ?>">
-
-        <div class="container">
-
-            <?php snippet('menu') ?>
-
-        </div>
-
-    </header>
+<header>
+    <nav>
+      <hr class="lignenav" size="1" width="1.5%" color="white" />
+      <span class="white">WEB </span> &nbsp <span class="green"> TIMELINE</span>
+      <hr class="lignenav" size="1" width="1.5%" color="white" />
+    </nav>
+</header>
