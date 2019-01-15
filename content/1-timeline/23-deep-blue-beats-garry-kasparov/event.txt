@@ -1,0 +1,25 @@
+Title: Deep Blue beats Garry Kasparov
+
+----
+
+Date: 1997-05-11
+
+----
+
+Category: other
+
+----
+
+Tags: ai
+
+----
+
+Image: image-23.png
+
+----
+
+Url: 
+
+----
+
+Content: **Deep Blue** becomes the first computer chess-playing system to beat a reigning world chess champion, **Garry Kasparov**.

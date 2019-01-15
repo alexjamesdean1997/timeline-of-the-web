@@ -22,13 +22,14 @@ fields:
       other: Other
       business: Business
       programming: Programming
-      law: Law
+      law/standards: Law/standards
       browsers: Browsers
-      ux-design: UX Design
       hardware: Hardware
       design: Design
       content: Content
       web: Web technologies
+      software: Software
+      security: Security
 
 
   tags:

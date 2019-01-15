@@ -1,0 +1,25 @@
+Title: Operating sytem kernel
+
+----
+
+Date: 1991-08-25
+
+----
+
+Category: software
+
+----
+
+Tags: 
+
+----
+
+Image: image-13.png
+
+----
+
+Url: 
+
+----
+
+Content: Linus Torvalds announces Operating sytem kernel for the GNU project.

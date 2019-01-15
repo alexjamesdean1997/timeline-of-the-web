@@ -1,0 +1,25 @@
+Title: Khan Academy
+
+----
+
+Date: 2006-10-10
+
+----
+
+Category: programming
+
+----
+
+Tags: 
+
+----
+
+Image: image-39.png
+
+----
+
+Url: https://fr.khanacademy.org/
+
+----
+
+Content: Salman Khan introduces the Khan Academy.

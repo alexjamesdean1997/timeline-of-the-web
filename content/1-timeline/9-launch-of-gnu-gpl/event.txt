@@ -1,0 +1,25 @@
+Title: Launch of GNU GPL
+
+----
+
+Date: 1989-02-25
+
+----
+
+Category: business
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: The *GPL* was written by **Richard Stallman** in 1989, for use with programs released as part of the GNU project. ... Stallman's goal was to produce one license that could be used for any project, thus making it possible for many projects to share code. The second version of the license, version 2, was released in **1991**.
