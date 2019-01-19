@@ -17,6 +17,7 @@
     />
 
     <?= css('assets/styles/css/accueil.css') ?>
+    <?= css('assets/styles/css/category.css') ?>
 
 </head>
 

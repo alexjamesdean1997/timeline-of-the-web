@@ -6,8 +6,15 @@ Intro: Once upon a time, the web...
 
 ----
 
-Text: This timeline traces the history of the web from computing in the 70s to the present.
+Text: 
+
+In 50 years, the Internet has changed the world, this tool has become a new way to communicate, to be informed and to work. The daily lives of millions of people have changed thanks to the Internet and without this invention, the world would not be the same as it is today. <br />
+ Our project was to develop a timeline that traces the key events of the Internet. In 5 decades, a lot has happened, it seemed interesting to us to group everything together on this timeline. To find our way around better, we have organized our dates by categories and by tag. Cross-referencing this information allows us to filter the most interesting dates and thus refine the search.
 
 ----
 
-Heading: Once upon a time, the web...
+Heading: HISTORY OF THE WEB
+
+----
+
+Img: history.png

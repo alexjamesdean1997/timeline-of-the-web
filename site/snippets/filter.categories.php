@@ -3,35 +3,49 @@
 
 <div class="filters__group mb-50">
 
-    <span class="filters__label mb-20">
-        Filter by category
-    </span>
+    <section class="category">
+    <h2 class="headtag">FILTER BY <strong>CATEGORY</strong></h2>
 
-    <input type="radio"
-           name="category-filter"
-           value="all-categories"
-           class="category-filter filter"
-           id="all-categories"
-           checked>
+        <div class="boxtag">
 
-    <label class="radio alt-text mb-10" for="all-categories">
-        <span></span>
-        All categories
-    </label>
+            <div>
 
-    <?php foreach ($categories as $category): ?>
+                <input type="radio"
+                    name="category-filter"
+                    value="all-categories"
+                    class="category-filter filter"
+                    id="all-categories"
+                    checked>
 
-        <input type="radio"
-               name="category-filter"
-               value="<?= html($category) ?>"
-               class="category-filter filter"
-               id="<?= html($category) ?>">
+                <label class="radio alt-text mb-10" for="all-categories">
+                    <span></span>
+                    All categories
+                </label>
 
-        <label class="radio alt-text mb-10" for="<?= html($category) ?>">
-            <span></span>
-            <?= html($category) ?>
-        </label>
+            </div>
 
-    <?php endforeach ?>
+        
 
-</div>
+            <?php foreach ($categories as $category): ?>
+
+                <div>
+                    <input type="radio"
+                        name="category-filter"
+                        value="<?= html($category) ?>"
+                        class="category-filter filter"
+                        id="<?= html($category) ?>">
+
+                    <label class="radio alt-text mb-10" for="<?= html($category) ?>">
+                        <span></span>
+                        <?= html($category) ?>
+                    </label>
+                </div> 
+
+            <?php endforeach ?>
+
+        </div>
+
+    </div>
+    </section>
+
+    

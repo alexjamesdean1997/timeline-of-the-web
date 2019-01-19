@@ -2,7 +2,7 @@ body {
   font-family: "Montserrat", sans-serif;
   color: #000;
   font-size: 15px;
-  line-height: 1.5em;
+  line-height: 1.4em;
   font-weight: 400;
 }
 
@@ -81,7 +81,7 @@ strong {
   margin-top: 50px;
   margin-bottom: 60px;
 }
-img {
+.img-history {
   margin-left: 90px;
   height: 310px;
   position: relative;
@@ -111,4 +111,9 @@ footer {
 footer > a {
   text-decoration: none;
   color: #00c100;
+}
+
+.section-accueil {
+  min-height: 63vh;
+  vertical-align: middle;
 }
