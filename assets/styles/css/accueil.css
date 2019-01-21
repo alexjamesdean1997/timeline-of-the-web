@@ -105,19 +105,22 @@ strong {
 footer {
   margin-top: 60px;
   background-color: #191919;
-  display: flex;
-  justify-content: center;
   color: white;
   min-height: 100px;
-  align-items: center;
 }
 
-footer > a {
+footer > div {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+footer a {
   text-decoration: none;
   color: #00c100;
 }
 
 .section-accueil {
-  min-height: 63vh;
-  vertical-align: middle;
+  min-height: 65.2vh;
 }
