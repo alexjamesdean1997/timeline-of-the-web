@@ -6,44 +6,21 @@
     <h2 class="headtag">NARROW DOWN YOUR <strong>SEARCH</strong></h2>
     <p>Choose a <strong>tag </strong> you're interested in</p>
 
-    <div class="boxtag">
 
-        <div>
-
-            <input type="radio"
-                name="tag-filter"
-                value="all-tags"
-                class="tag-filter filter"
-                id="all-tags"
-                checked>
-
-        <label class="radio alt-text mb-10" for="all-tags">
-            <span>All tags</span>
-                
-        </label>
-
-        </div>
-        
+        <form>
+            <select name="tag">
+            <option value="all-tags" id="all-tags">All tags</option>
 
         <?php foreach ($tags as $tag): ?>
 
 
-        <div>
-            <input type="radio"
-                    name="tag-filter"
-                    value="<?= html($tag) ?>"
-                    class="tag-filter filter"
-                    id="<?= html($tag) ?>">
-
-                <label class="radio alt-text mb-10" for="<?= html($tag) ?>">
-                    <span>#<?= html($tag) ?></span>
-                        
-                </label>
-        </div>
+        <option value="<?= html($tag) ?>" id="<?= html($tag) ?>"><?= html($tag) ?></option>
             
 
         <?php endforeach ?>
-    </div>
+            </select>
+        </form>
+        
         
 </section>
 
