@@ -35,35 +35,6 @@ if (document.querySelector('#timeline')) {
 
 /*
 * -------------------------------------
-* DOM EFFECTS
-* -------------------------------------
-*/
-
-// Toggle options panel on mobile & tablet
-if (document.querySelector('.sidebar-trigger')) {
-
-    let button = document.querySelector('.sidebar-trigger');
-    let open = document.querySelector('.sidebar-trigger__open');
-    let close = document.querySelector('.sidebar-trigger__close');
-    let sidebar = document.querySelector('.sidebar');
-
-    button.addEventListener('click', () => {
-
-        sidebar.classList.toggle('sidebar--open');
-
-        if (sidebar.classList.contains('sidebar--open')) {
-            open.style.display = 'none';
-            close.style.display = 'inline-block';
-        } else {
-            open.style.display = 'inline-block';
-            close.style.display = 'none';
-        }
-
-    });
-}
-
-/*
-* -------------------------------------
 * UTILITIES
 * -------------------------------------
 */

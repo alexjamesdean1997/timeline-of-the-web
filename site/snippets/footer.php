@@ -14,8 +14,10 @@
  
  </body>
 
+    <?php echo js('assets/scripts/libraries/jquery-3.3.1-min.js') ?>
     <?php echo js('assets/scripts/libraries/isotope.pkgd.min.js') ?>
     <?php echo js('assets/scripts/main.min.js') ?>
+    <?php echo js('assets/scripts/timeline.js') ?>
 
 </html>
 

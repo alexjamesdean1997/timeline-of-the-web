@@ -18,6 +18,7 @@
 
     <?= css('assets/styles/css/accueil.css') ?>
     <?= css('assets/styles/css/category.css') ?>
+    <?= css('assets/styles/css/timeline.css') ?>
 
 </head>
 
