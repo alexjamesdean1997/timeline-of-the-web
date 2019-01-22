@@ -1,0 +1,25 @@
+Title: Invention of the "User Experience" term
+
+----
+
+Date: 1993-01-01
+
+----
+
+Category: design
+
+----
+
+Tags: ux,apple
+
+----
+
+Image: image-100.png
+
+----
+
+Url: 
+
+----
+
+Content: Don Norman coined the term “User Experience” while at Apple (the words had been used in a phrase by others, but he made it a job title).

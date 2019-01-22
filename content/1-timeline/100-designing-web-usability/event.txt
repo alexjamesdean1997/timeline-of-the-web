@@ -1,0 +1,25 @@
+Title: Designing Web Usability
+
+----
+
+Date: 1999-01-01
+
+----
+
+Category: design
+
+----
+
+Tags: ux
+
+----
+
+Image: image-103.png
+
+----
+
+Url: 
+
+----
+
+Content: Jakob Nielsen publishes ***Designing Web Usability***, a bestseller defining the field of web usability, now translated in 24 languages.

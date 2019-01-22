@@ -1,0 +1,25 @@
+Title: 10 Usability Heuristics
+
+----
+
+Date: 1994-01-01
+
+----
+
+Category: design
+
+----
+
+Tags: ux
+
+----
+
+Image: image-101.png
+
+----
+
+Url: 
+
+----
+
+Content: Jakob Nielsen publishes 10 Usability Heuristics, a usability checklist now referenced and taught around the world as the basic tenets of usability.

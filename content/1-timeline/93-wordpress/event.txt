@@ -1,0 +1,25 @@
+Title: WordPress
+
+----
+
+Date: 2003-01-01
+
+----
+
+Category: web
+
+----
+
+Tags: cms,launches
+
+----
+
+Image: image-96.png
+
+----
+
+Url: 
+
+----
+
+Content: The blog publishing platform WordPress is launched.

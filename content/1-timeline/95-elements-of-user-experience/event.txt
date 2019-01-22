@@ -1,0 +1,25 @@
+Title: Elements of User Experience
+
+----
+
+Date: 2002-10-21
+
+----
+
+Category: design
+
+----
+
+Tags: ux
+
+----
+
+Image: image-98.png
+
+----
+
+Url: 
+
+----
+
+Content: Jesse James Garrett (2nd co-founder of Adaptive Path), helped popularize the concept of UX with his book Elements of User Experience: User-Centered Design for the Web and Beyond. It redefines and adapts it for web professionals. It is structured around five planes: the surface, the framework, the structure, the scope and the strategy.

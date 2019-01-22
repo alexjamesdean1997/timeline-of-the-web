@@ -1,0 +1,25 @@
+Title: The Design of Everyday Things
+
+----
+
+Date: 1988-01-01
+
+----
+
+Category: design
+
+----
+
+Tags: ux
+
+----
+
+Image: image-99.png
+
+----
+
+Url: 
+
+----
+
+Content: The Design of Everyday Things, the first book using the term "UX". Its author, Dr. Don Norman, was a professor of cognitive science and co-founder of the famous Nielsen Norman Group
