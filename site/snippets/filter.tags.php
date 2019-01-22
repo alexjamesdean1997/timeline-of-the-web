@@ -2,36 +2,28 @@
 <?php $tags = $page->children()->visible()->pluck('tags', ',', true); ?>
 
 <div class="filters__group mb-50">
+<section class="tag">
+    <h2 class="headtag">NARROW DOWN YOUR <strong>SEARCH</strong></h2>
+    <p>Choose a <strong>tag </strong> you're interested in</p>
 
-    <span class="filters__label mb-20">
-        Filter by tag
-    </span>
 
-    <input type="radio"
-           name="tag-filter"
-           value="all-tags"
-           class="tag-filter filter"
-           id="all-tags"
-           checked>
+        <form>
+            <select name="tag">
+            <option value="all-tags" id="all-tags">All tags</option>
 
-    <label class="radio alt-text mb-10" for="all-tags">
-        <span></span>
-        All tags
-    </label>
+        <?php foreach ($tags as $tag): ?>
 
-    <?php foreach ($tags as $tag): ?>
 
-        <input type="radio"
-               name="tag-filter"
-               value="<?= html($tag) ?>"
-               class="tag-filter filter"
-               id="<?= html($tag) ?>">
+        <option value="<?= html($tag) ?>" id="<?= html($tag) ?>"><?= html($tag) ?></option>
+            
 
-        <label class="radio alt-text mb-10" for="<?= html($tag) ?>">
-            <span></span>
-            #<?= html($tag) ?>
-        </label>
+        <?php endforeach ?>
+            </select>
+        </form>
+        
+        
+</section>
 
-    <?php endforeach ?>
+    
 
 </div>
