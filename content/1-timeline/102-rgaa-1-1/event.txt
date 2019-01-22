@@ -1,0 +1,25 @@
+Title: RGAA 1.1
+
+----
+
+Date: 2009-10-23
+
+----
+
+Category: law/standards
+
+----
+
+Tags: accessibility
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: RGAA is a referencing of international and European rules and standards but also and above all a technical reference. It offers more than 180 tests and a methodological framework to ensure that web content complies with international **web accessibility rules**. In this sense, it can be considered as the application version of the WCAG.
