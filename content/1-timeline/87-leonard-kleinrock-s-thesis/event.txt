@@ -1,0 +1,25 @@
+Title: Leonard Kleinrock's thesis
+
+----
+
+Date: 1961-05-31
+
+----
+
+Category: other
+
+----
+
+Tags: social media,data sharing
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: Leonard Kleinrock of MIT publishes the first theoretical text on packet telecommunications. This is the oldest text describing the social interactions that would be possible with a computer network.

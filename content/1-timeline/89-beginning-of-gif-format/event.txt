@@ -1,0 +1,25 @@
+Title: Beginning of GIF format
+
+----
+
+Date: 1987-01-01
+
+----
+
+Category: content
+
+----
+
+Tags: media,launches
+
+----
+
+Image: image-92.png
+
+----
+
+Url: 
+
+----
+
+Content: The Graphics Interchange Format, better known by its acronym GIF, is a bitmap image format that was developed by a team at the bulletin board service (BBS) provider CompuServe led by American computer scientist Steve Wilhite.

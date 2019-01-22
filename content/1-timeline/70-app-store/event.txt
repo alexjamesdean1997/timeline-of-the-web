@@ -1,0 +1,25 @@
+Title: App Store
+
+----
+
+Date: 2008-01-01
+
+----
+
+Category: hardware
+
+----
+
+Tags: apple
+
+----
+
+Image: image-71.png
+
+----
+
+Url: 
+
+----
+
+Content: The App Store was opened by Steve Jobs with an initial 500 applications available. As of 2017, the store features over 2.1 million apps.

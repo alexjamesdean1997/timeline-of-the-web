@@ -1,0 +1,25 @@
+Title: Mosaïc, first web browser
+
+----
+
+Date: 1993-01-01
+
+----
+
+Category: browsers
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: NCSA Mosaic, or simply Mosaic, is the web browser that popularized the World Wide Web and the Internet. It was also a client for earlier internet protocols such as File Transfer Protocol, Network News Transfer Protocol, and Gopher.

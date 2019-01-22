@@ -1,0 +1,25 @@
+Title: First news web site
+
+----
+
+Date: 1995-01-01
+
+----
+
+Category: content
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: In the 1990s, major press groups gradually began to make an online version of their newspapers. On February 3, 1995, Le Monde Diplomatique is the first newspaper in France to publish articles online. Today, almost all press titles have an online version. The latter has sometimes replaced the paper format. Since 2012, this is the case of the economic newspaper La Tribune.

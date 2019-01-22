@@ -1,0 +1,25 @@
+Title: Chrome v.1
+
+----
+
+Date: 2008-12-11
+
+----
+
+Category: browsers
+
+----
+
+Tags: google
+
+----
+
+Image: image-70.png
+
+----
+
+Url: 
+
+----
+
+Content: It was first released for Microsoft Windows, and was later ported to Linux, macOS, iOS and Android. Google Chrome is also the main component of Chrome OS, where it serves as a platform for running web apps.

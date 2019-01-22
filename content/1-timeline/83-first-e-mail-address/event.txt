@@ -1,0 +1,25 @@
+Title: First e-mail address
+
+----
+
+Date: 
+
+----
+
+Category: web
+
+----
+
+Tags: emailing,launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: The first email was sent from one computer to another computer sitting right beside it in Cambridge, Massachusetts, but it traveled via ARPANET, a network of computers that was the precursor to the Internet.

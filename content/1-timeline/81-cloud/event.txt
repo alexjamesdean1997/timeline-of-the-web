@@ -1,0 +1,25 @@
+Title: Cloud
+
+----
+
+Date: 2000-01-01
+
+----
+
+Category: content
+
+----
+
+Tags: data sharing
+
+----
+
+Image: image-82.png
+
+----
+
+Url: 
+
+----
+
+Content: Cloud computing is transforming the way we access IT resources or services. Stored in remote servers, they are now accessible everywhere, at any time and from any terminal connected to the internet. 3209 datacenters are listed worldwide in 2014, of which 40% in the United States and only 30% in the European Union.

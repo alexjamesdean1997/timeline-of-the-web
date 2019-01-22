@@ -1,0 +1,25 @@
+Title: First domain name
+
+----
+
+Date: 1985-03-15
+
+----
+
+Category: web
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: The first domain name registered on the Internet is "symbolics.com". It was registered on March 15, 1985 by the company Symbolics, a computer manufacturer.

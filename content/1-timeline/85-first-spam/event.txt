@@ -1,0 +1,25 @@
+Title: First SPAM
+
+----
+
+Date: 1978-05-03
+
+----
+
+Category: other
+
+----
+
+Tags: emailing,launches
+
+----
+
+Image: image-88.png
+
+----
+
+Url: 
+
+----
+
+Content: The first known email spam (although not yet called that), was sent  to several hundred users on ARPANET. It was an advertisement for a presentation by Digital Equipment Corporation re their DECSYSTEM-20 products sent by Gary Thuerk, a marketer of theirs.[4]

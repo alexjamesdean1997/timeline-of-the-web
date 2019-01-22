@@ -1,0 +1,25 @@
+Title: First stable version of Firefox
+
+----
+
+Date: 2004-11-09
+
+----
+
+Category: browsers
+
+----
+
+Tags: 
+
+----
+
+Image: image-69.png
+
+----
+
+Url: 
+
+----
+
+Content: Firefox challenged Internet Explorer's dominance with 60 million downloads within nine months. Firefox is the spiritual successor of Netscape Navigator, as the Mozilla community was created by Netscape in 1998 before their acquisition by AOL.

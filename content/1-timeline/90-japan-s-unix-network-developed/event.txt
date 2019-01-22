@@ -1,0 +1,25 @@
+Title: Japan's UNIX Network Developed
+
+----
+
+Date: 1984-01-01
+
+----
+
+Category: other
+
+----
+
+Tags: 
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: Dr. Jun Murai, known as the ‘father of the Internet in Japan,’ develops the Japanese University UNIX Network (JUNET), the first inter-university network in that nation.

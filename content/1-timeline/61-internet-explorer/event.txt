@@ -1,0 +1,25 @@
+Title: Internet Explorer
+
+----
+
+Date: 1995-08-16
+
+----
+
+Category: browsers
+
+----
+
+Tags: microsoft
+
+----
+
+Image: image-62.png
+
+----
+
+Url: 
+
+----
+
+Content: Internet Explorer is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems. It was first released as part of the add-on package Plus! for Windows 95 that year.

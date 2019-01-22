@@ -1,0 +1,25 @@
+Title: Gallica
+
+----
+
+Date: 1997-01-01
+
+----
+
+Category: content
+
+----
+
+Tags: data sharing
+
+----
+
+Image: image-81.png
+
+----
+
+Url: 
+
+----
+
+Content: Becoming the "virtual library of the honest man" is the ambition of Gallica at its launch. Enriched constantly, the digital library of the National Library of France today offers free access to more than three million documents. In 2008, its resources are pooled with 26 other national digital libraries to create Europeana: the European Digital Library.

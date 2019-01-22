@@ -1,0 +1,25 @@
+Title: First « e-book »
+
+----
+
+Date: 1971-07-04
+
+----
+
+Category: content
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: Michael Hart uses a computer from the Materials Research Lab to write the "Declaration of Independence of the United States" on ARPANET. This 5 KB file was accessible to all users. This is the first "ebook" in history.

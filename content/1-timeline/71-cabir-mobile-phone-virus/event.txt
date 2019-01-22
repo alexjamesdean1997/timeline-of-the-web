@@ -1,0 +1,25 @@
+Title: Cabir, mobile phone virus
+
+----
+
+Date: 2004-01-01
+
+----
+
+Category: security
+
+----
+
+Tags: 
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: Cabir is the name of a computer worm developed to infect mobile phones running Symbian OS. It is believed to be the first computer worm that can infect mobile phones.

@@ -1,0 +1,25 @@
+Title: First ad
+
+----
+
+Date: 1994-01-01
+
+----
+
+Category: business
+
+----
+
+Tags: launches
+
+----
+
+Image: image-89.png
+
+----
+
+Url: 
+
+----
+
+Content: The First-Ever Banner Ad on the Web. It was an advertisement for AT&T in 1994, and people clicked on it like crazy... The banner ad that's widely described as the first ever was a little rectangle purchased by AT&T on HotWired.com in 1994.

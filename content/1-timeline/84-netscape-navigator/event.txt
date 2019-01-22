@@ -1,0 +1,25 @@
+Title: Netscape Navigator
+
+----
+
+Date: 1994-01-01
+
+----
+
+Category: browsers
+
+----
+
+Tags: 
+
+----
+
+Image: image-87.png
+
+----
+
+Url: 
+
+----
+
+Content: Netscape Navigator was a proprietary web browser, and the original browser of the Netscape line, from versions 1 to 4.08, and 9.x. It was the flagship product of the Netscape Communications Corp and was the dominant web browser in terms of usage share in the 1990s, but by 2002 its use had almost disappeared.

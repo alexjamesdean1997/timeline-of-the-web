@@ -1,0 +1,25 @@
+Title: First blog
+
+----
+
+Date: 1994-01-01
+
+----
+
+Category: content
+
+----
+
+Tags: launches
+
+----
+
+Image: 
+
+----
+
+Url: 
+
+----
+
+Content: Still a student, Justin Hall starts a diary on the Web.
